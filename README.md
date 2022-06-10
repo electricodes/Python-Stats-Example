@@ -1,3 +1,3 @@
-# practice-
+# practice
 
 ### Practice Markdown file
