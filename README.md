@@ -1,3 +1,3 @@
-# practice
+# Python examples
 
-### Practice Markdown file
+### Examples of my python work
